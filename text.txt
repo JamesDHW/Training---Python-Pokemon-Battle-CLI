@@ -1,0 +1,20 @@
+You start on your adventure!
+a) take the path to your right
+b) enter the cave
+c) go to the tavern
+make your choice
+A) You go down the path
+a)
+b)
+c)
+make your choice
+B) You enter the cave
+a)
+b)
+c)
+make your choice
+C) You go to the tavern
+a)
+b)
+c)
+make your choice
