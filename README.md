@@ -1,1 +1,1 @@
-# Basic Python Exercise
+# Basic Python Exercise - Pokemon Battle CLI
